@@ -1,0 +1,11 @@
+{
+  "name": "@payvizio/sdk",
+  "version": "0.1.0",
+  "description": "Payvizio server SDK for Node.js — create sessions, capture/refund payments, verify webhook signatures.",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "files": ["src", "README.md"],
+  "engines": { "node": ">=18" },
+  "keywords": ["payvizio", "payments", "upi", "card", "checkout"],
+  "license": "Apache-2.0"
+}
