@@ -1,7 +1,13 @@
 {
   "name": "@payvizio/sdk",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Payvizio server SDK for Node.js — create sessions, capture/refund payments, verify webhook signatures.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/payvizio-pg/payvizio-node.git"
+  },
+  "homepage": "https://docs.payvizio.com",
+  "bugs": "https://github.com/payvizio-pg/payvizio-node/issues",
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "files": [
